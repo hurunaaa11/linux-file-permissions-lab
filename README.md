@@ -1,1 +1,0 @@
-# linux-file-permissions-lab
